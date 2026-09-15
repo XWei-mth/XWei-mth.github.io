@@ -13,8 +13,6 @@ I received my Ph.D. in Applied Mathematics from the [School of Mathematical Scie
 
 My research interests are in extremal and additive combinatorics, graph theory, and coding theory.
 
-[Download my CV (PDF)]({{ '/files/cv.pdf' | relative_url }})
-
 Email
 ------
 weixinma@ibs.re.kr
